@@ -39,7 +39,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "http://localhost:3000/#/",
+  "homepage": "https://ssoo0814.github.io/movie_app_ver1",
   "extends": [
     "next",
     "plugin:react/recommended",
